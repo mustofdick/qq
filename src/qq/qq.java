@@ -6,8 +6,5 @@ package qq;
 class main {
     public static void main(String[] args) {
         System.out.printf("qq sss\n");
-        System.out.printf("qq sss\n");
-        System.out.printf("qq sss\n");
-        System.out.printf("qq sss\n");
     }
 }
